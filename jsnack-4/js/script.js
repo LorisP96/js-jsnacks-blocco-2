@@ -3,7 +3,6 @@
 // fino a quando ne avrà tanti quanti l’altro.
 
 let firstArray = [1, 2, 3, 4, 5];
-console.log(firstArray);
 
 let secondArray = [1, 2, 3, 4, 5, 6, 7, 8];
 console.log(secondArray);
